@@ -2,29 +2,48 @@
 
 ### `Offensive Security Engineer · Vulnerability Researcher · CTF Player`
 
-> Breaking things to understand how to secure them.
+> Breaking real-world systems to understand how to secure them.
 
 ---
 
-## 🟣 About Me
+## 👋 About
 
-I'm niko, an offensive security enthusiast focused on **vulnerability research, web security, reverse engineering, and CTFs**.
+I'm Florian Kabashi, an offensive security researcher from Kosovo focused on **vulnerability research, web application security, AI security, reverse engineering, and offensive security**.
 
-I enjoy digging into applications, understanding how they work under the hood, and finding the assumptions that make them break.
+I spend most of my time researching how systems fail — from web applications and open-source software to AI-powered systems and security tooling.
+
+I'm also an active **CTF player**, using CTFs as a way to sharpen exploitation, reverse engineering, privilege escalation, and vulnerability research skills.
+
+---
+
+## 🔬 Current Focus
 
 ```text
-Focus
+Vulnerability Research
 ├── Web Application Security
-├── Vulnerability Research
+├── Open-Source Security
+├── AI / LLM Security
+├── Vulnerability Discovery & Analysis
+└── Security Research
+
+Offensive Security
+├── Web & API Testing
+├── Privilege Escalation
 ├── Reverse Engineering
-├── Linux
-├── CTFs
-└── Security Tooling
+├── Binary Exploitation
+└── Linux Security
+
+CTFs
+├── Web
+├── Pwn
+├── Reverse Engineering
+├── Privilege Escalation
+└── Misc / AI Security
 ```
 
 ---
 
-## 🛠️ Arsenal
+## 🛠️ Technologies & Tools
 
 **Languages**
 
@@ -32,54 +51,66 @@ Focus
 
 **Security**
 
-`Burp Suite` `Nmap` `Nuclei` `ffuf` `GDB` `Wireshark`
+`Burp Suite` `Nmap` `Nuclei` `ffuf` `Metasploit` `GDB` `Ghidra` `Wireshark`
 
-**Environment**
+**Infrastructure**
 
-`Linux` `Docker` `Git`
-
----
-
-## 🏴‍☠️ Capture The Flag
-
-Active CTF player with a focus on difficult exploitation challenges, including:
-
-* Web exploitation
-* Privilege escalation
-* Binary exploitation
-* Reverse engineering
-* Linux internals
-* AI / supply-chain security
-
-**TryHackMe:** Nikooo
+`Linux` `Docker` `Git` `VMware`
 
 ---
 
-## 🔬 Vulnerability Research
+## 🧪 Research
 
-Interested in discovering and responsibly disclosing vulnerabilities in:
+My interests include:
 
-* Web applications
-* WordPress plugins
-* Open-source software
-* Developer tooling
-* AI/ML infrastructure
+* Vulnerability research in open-source software
+* Web application and API security
+* WordPress security
+* AI / LLM security and adversarial AI
+* Prompt injection and agent security
+* Security automation
+* Reverse engineering and exploit development
 
----
-
-## 📫 Connect
-
-**TryHackMe:** https://tryhackme.com/p/Nikooo
+I prefer **reproducible research** — understanding the underlying code, validating findings locally, and documenting the technical root cause.
 
 ---
 
-```text
-[ SYSTEM STATUS ]
+## 🏴‍☠️ CTF
 
-████████████████████████  ONLINE
+Active CTF player competing across platforms such as **Hack The Box** and **TryHackMe**.
 
-research      ████████████████████
-ctf           ████████████████████
-coffee        ██████████████████████████████
-sleep         ██
-```
+Areas I particularly enjoy:
+
+`Web` · `Pwn` · `Reverse Engineering` · `Linux` · `Privilege Escalation` · `AI Security`
+
+**TryHackMe:** [Nikooo](https://tryhackme.com/p/Nikooo)
+
+---
+
+## 📝 Writing & Research
+
+I also write about cybersecurity topics and security research, including:
+
+* AI-powered penetration testing
+* AI security and adversarial systems
+* Cybercrime infrastructure and threat research
+* Vulnerability research
+* Offensive security techniques
+
+---
+
+## 🤝 Community
+
+**KSAL Cyber Team**
+
+A cybersecurity CTF and research community from Kosovo and Albania, focused on red teaming, blue teaming, network security, and competitive cybersecurity.
+
+---
+
+## 📫 Find Me
+
+**LinkedIn:** [Florian Kabashi](https://www.linkedin.com/in/florian-kabashi-8463132a3/)
+
+**TryHackMe:** [Nikooo](https://tryhackme.com/p/Nikooo)
+
+**GitHub:** [@apocalypse-agent](https://github.com/apocalypse-agent)
