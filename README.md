@@ -75,6 +75,7 @@ CTFs
 
 ## 🧪 Projects
 
+- **[AgentBait](https://github.com/apocalypse-agent/agentbait)** — lab showing how fake tool-provenance metadata ("official", "reviewed") steers LLM agents: 0/30 → 29/30 tool selection, and 30/30 canary exposure when tool selection is treated as authorization (0/30 with an independent authz check)
 - **Multi-Agent Penetration Testing Framework** — autonomous agents for recon, vulnerability discovery and exploitation planning
 - **God's Eye View** — OSINT & spatial-intelligence platform (aircraft, maritime, satellite and infrastructure data with provenance and timelines) — *open-source release planned*
 
