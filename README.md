@@ -98,6 +98,6 @@ I prefer **reproducible research**: understanding the underlying code, validatin
 
 ## 📫 Find Me
 
-**LinkedIn:** [Florian Kabashi](https://www.linkedin.com/in/floriankabashi)
-**TryHackMe:** [Nikooo](https://tryhackme.com/p/Nikooo)
+**LinkedIn:** [Florian Kabashi](https://www.linkedin.com/in/floriankabashi)<br>
+**TryHackMe:** [Nikooo](https://tryhackme.com/p/Nikooo)<br>
 **CTFtime:** [Team profile](https://ctftime.org/team/424982/)
